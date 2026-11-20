@@ -1,5 +1,5 @@
 #ImageJ 1.53k Preferences
-#Tue Jan 04 11:54:01 IST 2022
+#Wed Nov 18 05:28:32 IST 2026
 precision=3
 fcolor=\#FFFFFF
 raw.width=512
@@ -12,7 +12,7 @@ ap.options=64
 pp.width=600
 bcolor=\#000000
 pp.fontsize=14
-dir.image=C\:\\Users\\Meenakshi\\Desktop\\
+dir.image=F\:\\set2-RSC-SD-ctrl\\set2\\
 new.type=0
 raw.options=0
 .results.loc=-8,-8
@@ -36,9 +36,9 @@ recent02=C\:\\Users\\Meenakshi\\Desktop\\bgd_16968.tif
 recent00=C\:\\Users\\Meenakshi\\Desktop\\dir.tif
 new.slices=1
 jpeg=85
-ij.x=732
+ij.x=900
 raw.n=1
-ij.y=31
+ij.y=15
 pp.height=340
 measurements=19
 noise.sd=25.0
